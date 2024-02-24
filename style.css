@@ -45,6 +45,7 @@ h1{
     padding: 2rem;
 }
 .box{
+    width: 100%;
     aspect-ratio: 1/1;
     display: grid;
     place-items: center;
